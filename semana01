@@ -1,0 +1,7 @@
+OBJETIVOS: 
+
+1.	Conocer las caracterisiticas y ventajas que brinda JPA (Java Persistence API) como framework ORM (Object Relational Mapping) 
+    para la integración de aplicaciones Java con  Bases de Datos Relacionales.
+
+2.	Conocer las consideraciones a tener en cuenta para utilizar la API de JPA, basada en la implementación de Hibernate, 
+    tanto en aplicaciones Stand-alone como en Apache Tomcat.
